@@ -4,10 +4,10 @@ RuhohSpec: '0.1'
 theme : twitter
 permalink: /:categories/:title
 
-production_url : http://sample.com
+production_url : http://mlr4.ruhoh.com
 
-comments :
-  provider : disqus
+comments : 
+  provider : false
   disqus :
     short_name : jekyllbootstrap
   livefyre :

@@ -1,10 +1,10 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Hello Motherfucking World
+tagline: <lameass tagline>
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Michael L Reid
+  email : michael@in.tech.wetru.st
+  github : mlr4
+  twitter : mlr_ca
   feedburner : feedname
 
 navigation :
